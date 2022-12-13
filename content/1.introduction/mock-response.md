@@ -1,8 +1,16 @@
-# Getting Started
+# Mock Response
 
 From your Markdown files to a deployed website in few minutes.
 
-## Create a new project
+
+## Data Type
+
+
+## HTTP methods
+
+
+
+## Status Code
 
 1. Start a Mockgee Docker container:
 
@@ -23,3 +31,15 @@ The starter uses the [Docs Theme](/guide/features).
 <br/>
 Check out the [Guide section](/guide/theming/usage) about theming to change it.
 ::
+
+
+## Custom Response Headers
+
+
+## Query param
+
+
+## Path param
+
+
+## CORS support
