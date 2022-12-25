@@ -3,12 +3,7 @@ export default defineAppConfig({
     title: 'Mockgee',
     description: 'Lets mock API.',
     socials: {
-      twitter: 'mockgee',
-      // linkedin: {
-      //   label: 'linkedin',
-      //   icon: 'mdi:linkedin',
-      //   href: 'https://www.linkedin.com/company/mockgee'
-      // }
+      twitter: 'mockgee'
     },
     aside: {
       level: 0,
@@ -16,9 +11,9 @@ export default defineAppConfig({
     },
     header: {
       logo: true,
-      // showLinkIcon: true,
-      // exclude: [],
-      // title: 'Mockgee'
+      showLinkIcon: true,
+      exclude: [],
+      title: 'Mockgee'
     },
     footer: {
       iconLinks: [
